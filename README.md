@@ -1,57 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,25:D8BFD8,50:C8A2C8,75:9370DB,100:6A5ACD&height=230&section=header&text=KALYANI%20PHAPALE&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=WEB%20DEVELOPER%20%7C%20PROGRAMMER%20%7C%20PROBLEM%20SOLVER&descSize=15&descAlignY=62&animation=fadeIn" alt="Kalyani Phapale - Web Developer"/>
+<!-- LAVENDER GRADIENT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:E6E6FA,30:D8BFD8,65:B19CD9,100:9370DB&text=KALYANI%20PHAPALE&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=WEB%20DEVELOPER%20%7C%20PROGRAMMER&descSize=18&descAlignY=62&animation=fadeIn" alt="Kalyani Phapale header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=9370DB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kalyani+Phapale+%F0%9F%92%9C;Web+Development+Enthusiast+%F0%9F%92%BB;Python+%7C+C+%7C+C%2B%2B+%7C+SQL;Exploring+DSA+%26+Problem+Solving;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Animated introduction"/>
+<!-- ANIMATED INTRODUCTION -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=23&duration=2500&pause=900&color=9370DB&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Kalyani+Phapale+%F0%9F%92%9C;Welcome+to+my+coding+world+%E2%9C%A8;Web+Development+Enthusiast+%F0%9F%92%BB;Learning.+Building.+Growing.+%F0%9F%8C%B8" alt="Animated introduction"/>
 
-</div>
+<br/><br/>
 
 <a href="https://github.com/kalyani-xu">
-<img src="https://img.shields.io/badge/GitHub-kalyani--xu-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-C8A2C8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web development"/>
-<img src="https://img.shields.io/badge/Mindset-Always%20Learning-B19CD9?style=for-the-badge&logo=target&logoColor=white" alt="Always learning"/>
+
+<a href="https://github.com/kalyani-xu?tab=repositories">
+<img src="https://img.shields.io/badge/My-Projects-C8A2C8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🌷 About Me
 
-Hello! I'm **Kalyani**, a developer passionate about programming, web technologies, and problem-solving.
+Hello! I'm **Kalyani Phapale**, a developer interested in web technologies, programming, and creative problem-solving.
 
-- 💻 Interested in building attractive and user-friendly websites.
-- 🌐 Exploring web development and modern technologies.
+- 💻 Passionate about web development and programming.
+- 🌐 Interested in creating attractive and user-friendly websites.
 - 🧠 Practicing Data Structures and Algorithms.
 - 🐍 Working with Python, C, C++, and SQL.
-- 🚀 Interested in building practical projects and improving my skills.
-- 🌱 Always learning, experimenting, and growing as a developer.
+- 🌱 Continuously learning and improving my technical skills.
+- ✨ Believing that every line of code is an opportunity to learn something new.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💜 My Technology Stack
 
 ### 🌐 Web Development
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>
-</a>
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" height="55" alt="React"/>
-</a>
-<a href="https://getbootstrap.com/">
-<img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=light" alt="HTML CSS JavaScript React Bootstrap"/>
 
 </div>
 
@@ -59,73 +49,70 @@ Hello! I'm **Kalyani**, a developer passionate about programming, web technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Python, C, and C++"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" alt="Python C C++"/>
 
 </div>
 
-### 🗄️ Databases
+### 🗄️ Database Technologies
 
 <div align="center">
 
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
-</a>
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="MySQL PostgreSQL"/>
 
 </div>
 
-### 🔧 Development Tools
+### 🛠️ Tools I Use
 
 <div align="center">
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="Visual Studio Code"/>
-</a>
-<a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma" height="55" alt="Figma"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" alt="Git GitHub VS Code Figma"/>
 
 </div>
 
-> **Note:** The technology logos above are a suggested showcase for a web developer. Remove any technology she hasn't learned or used yet. HTML, CSS, JavaScript, React, Bootstrap, PostgreSQL, Git, VS Code, and Figma should appear only if they reflect her actual skills or tools.
+> **Please customize this section:** Keep only technologies and tools Kalyani has actually learned or used. In particular, don't list React, Bootstrap, PostgreSQL, or Figma as skills unless she knows them.
 
 ---
 
-## 🎯 Areas of Interest
+## ✨ My Interests
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 ### 🌐 Web Development
 
-- Responsive website design
-- Frontend development
-- Interactive user interfaces
-- Website usability
+Creating responsive, accessible, and user-friendly web experiences.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🧠 Programming
+### 🧠 Problem Solving
 
-- Data Structures & Algorithms
-- Problem-solving techniques
-- Python programming
-- C and C++ fundamentals
-- SQL and database queries
+Learning algorithms, practicing DSA, and improving logical thinking.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Databases
+
+Working with SQL queries and relational database concepts.
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Continuous Learning
+
+Exploring technologies and developing practical projects.
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -134,14 +121,14 @@ Hello! I'm **Kalyani**, a developer passionate about programming, web technologi
 <div align="center">
 
 <a href="https://github.com/kalyani-xu?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My-Projects-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
 
-Explore my repositories to discover my programming practice, web development work, and projects.
+I'm building my development journey one project at a time.
 
-**Project showcase:** As she creates projects, she can add cards here with each project's name, description, technologies, and live demo link.
+Here you'll find my programming practice, web development projects, and experiments as I continue learning.
 
 ---
 
@@ -149,52 +136,48 @@ Explore my repositories to discover my programming practice, web development wor
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalyani-xu&show_icons=true&hide_border=true&bg_color=F8F4FF&title_color=9370DB&icon_color=BA55D3&text_color=5B4B8A" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kalyani-xu&show_icons=true&hide_border=true&bg_color=F8F4FF&title_color=9370DB&icon_color=B19CD9&text_color=5B4B8A" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani-xu&layout=compact&hide_border=true&bg_color=F8F4FF&title_color=9370DB&text_color=5B4B8A" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=kalyani-xu&hide_border=true&background=F8F4FF&ring=9370DB&fire=BA55D3&currStreakLabel=9370DB&sideLabels=6A5ACD&currStreakNum=5B4B8A&sideNums=9370DB&dates=8A7CA8" alt="GitHub contribution streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani-xu&layout=compact&hide_border=true&bg_color=F8F4FF&title_color=9370DB&text_color=5B4B8A" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## 🌱 My Developer Journey
+## 🌸 My Goals
 
 <div align="center">
 
-| 💜 Goal | 🚀 Direction |
+| 💜 Goal | ✨ Focus |
 |---|---|
-| Web Development | Build useful and responsive websites |
-| Programming | Write clear, maintainable code |
-| Problem Solving | Strengthen DSA fundamentals |
-| Databases | Improve SQL skills |
+| Web Development | Build responsive websites |
+| Programming | Write clean, readable code |
+| DSA | Improve problem-solving skills |
+| SQL | Strengthen database knowledge |
 | Projects | Turn ideas into working applications |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/kalyani-xu">
-<img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Kalyani%20Phapale-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-
-<!-- Add her LinkedIn URL after confirming her correct profile link. -->
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%92%9C;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B8" alt="Closing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=2800&pause=900&color=9370DB&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%92%9C;Keep+Creating+%F0%9F%8C%B8;Keep+Growing+%E2%9C%A8" alt="Closing animation"/>
 
 ### 💜 Thanks for visiting my profile!
 
-**Let's learn, build, and create something amazing.**
+*Dream it. Design it. Develop it.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,30:D8BFD8,65:C8A2C8,100:9370DB&height=120&section=footer" alt="Lavender footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E6E6FA,35:D8BFD8,70:B19CD9,100:9370DB&section=footer" alt="Lavender footer"/>
 
 </div>
