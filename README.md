@@ -130,8 +130,19 @@ I'm building my development journey one project at a time.
 
 Here you'll find my programming practice, web development projects, and experiments as I continue learning.
 
----
+## 🐍 My Contribution Journey
 
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/kalyani-xu/kalyani-xu/output/github-contribution-grid-snake.svg"
+  alt="Kalyani Phapale's GitHub contribution snake animation"
+  width="100%"
+/>
+
+</div>
+
+---
 ## 📊 GitHub Statistics
 
 <div align="center">
